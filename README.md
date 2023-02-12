@@ -1,5 +1,5 @@
 # Shell-Project
-Proiect pentru SIsteme de Operare ce urmareste implementarea unui Shell (proiect de echipa). 
+Proiect pentru Sisteme de Operare ce urmareste implementarea unui Shell (proiect de echipa). 
 
 # Team members and contributions:
 ### Irina Enescu:
